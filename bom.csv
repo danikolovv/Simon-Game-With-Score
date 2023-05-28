@@ -1,0 +1,13 @@
+﻿Name,Quantity,Component
+"UArduino",1," Arduino Uno R3"
+"PIEZOBuzzer",1," Piezo"
+"SRED, SGREEN, SBLUE, SYELLOW",4," Pushbutton"
+"U3, U2",2," 8-Bit Shift Register"
+"DigitLeftDisplay17, DigitRightDisplay",2,"Anode 7 Segment Display"
+"DRedLED",1,"Red LED"
+"DGreenLED",1,"Green LED"
+"DBlueLED",1,"Blue LED"
+"DYellowLED",1,"Yellow LED"
+"RResistorRedLED, RResistorGreenLED, RResistorBlueLED, RResistorYellowLED, RResistorLeftDisplay",5,"220 Ω Resistor"
+"RResistorLeftShiftRegister",1,"110 mΩ Resistor"
+"RResistorRightDisplay",1,"5 mΩ Resistor"
